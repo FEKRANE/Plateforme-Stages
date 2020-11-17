@@ -1,0 +1,105 @@
+﻿{
+  "offres": {
+    "offre": [
+      {
+        "ID": "o1",
+        "date": "25-12-2020",
+        "image": "images/offres/image1.jpg",
+        "utilisateur": {
+          "ID": "u1",
+          "nom": "nom1",
+          "prenom": "prenom1",
+          "adresseEmail": "s@g.com",
+          "photo": "chemin",
+          "titre": "etudiant",
+          "login": "etudiant",
+          "motDePasse": "kkk",
+          "experience": {
+            "ID": "ex1",
+            "titre": "t1",
+            "type": "stage",
+            "dateDebut": "12-03-2020",
+            "dateFin": "12-05-2020",
+            "description": "d1"
+          }
+        }
+      },
+      {
+        "ID": "o2",
+        "description": "Job Description Stage PFE : Ingénieur études et développement Java JEE (H/F)\nDescription de poste\nDans le cadre de notre développement, le centre de production NTI coopérant sur les nouvelles technologies : Java JEE , Cobol MVS.....etc, recrute des stagiaires PFE pour son site de Casablanca.\n\nFonctions et responsabilités\n\nAu Sein D'une Équipe Dynamique, Vous Aurez Pour Missions\nRéaliser, maintenir et tester, en toute autonomie, les programmes qui vous sont confiés en respectant les spécifications détaillées fournies, les délais et les différentes normes qualité\n\u2022Contribuer à la dynamique de l\u2019équipe\nMaitriser vos charges, votre reste à faire et les délais\nAppliquer les process du projet\n",
+        "date": "25-12-2020",
+        "utilisateur": {
+          "ID": "u1",
+          "nom": "nom2",
+          "prenom": "prenom1",
+          "adresseEmail": "s@g.com",
+          "photo": "chemin",
+          "titre": "etudiant",
+          "login": "etudiant",
+          "motDePasse": "kkk",
+          "experience": {
+            "ID": "ex1",
+            "titre": "t1",
+            "type": "stage",
+            "dateDebut": "12-03-2020",
+            "dateFin": "12-05-2020",
+            "description": "d1"
+          }
+        }
+      },
+      {
+        "ID": "1",
+        "date": "25-12-2020",
+        "image": "images/offres/image2.jpg",
+        "utilisateur": {
+          "ID": "u1",
+          "nom": "nom3",
+          "prenom": "prenom1",
+          "adresseEmail": "s@g.com",
+          "photo": "chemin",
+          "titre": "etudiant",
+          "login": "etudiant",
+          "motDePasse": "kkk",
+          "experience": {
+            "ID": "ex1",
+            "titre": "t1",
+            "type": "stage",
+            "dateDebut": "12-03-2020",
+            "dateFin": "12-05-2020",
+            "description": "d1"
+          }
+        }
+      },
+      {
+        "description": "test",
+        "date": "12-11-2020",
+        "utilisateur": {"nom": "nom4"}
+      },
+      {
+        "description": "test",
+        "date": "12-11-2020",
+        "utilisateur": {"nom": "nom4"}
+      },
+      {
+        "description": "",
+        "date": "12-11-2020",
+        "utilisateur": {"nom": "nom4"}
+      },
+      {
+        "description": "j'ai trouvé un stage ",
+        "date": "12-11-2020",
+        "utilisateur": {"nom": "nom4"}
+      },
+      {
+        "description": "j'ai trouvé un stage ",
+        "date": "12-11-2020",
+        "utilisateur": {"nom": "nom4"}
+      },
+      {
+        "description": "j'ai trouvé un stage ",
+        "date": "12-11-2020",
+        "utilisateur": {"nom": "nom4"}
+      }
+    ]
+  }
+}

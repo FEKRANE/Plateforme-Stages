@@ -1,0 +1,69 @@
+﻿{
+  "Entreprises": {
+    "Entreprise": [
+      {
+        "ID": "e1",
+        "raisonSociale": "IIP",
+        "adresseEmail": "contact@iip.ma",
+        "tel": "+212 648276399",
+        "adresse": "Marrakech,MA"
+      },
+      {
+        "ID": "e2",
+        "raisonSociale": "Emerging Business Factory",
+        "adresseEmail": "ebf@ebf.ma",
+        "tel": "+212 661404643",
+        "adresse": "Marrakech,MA"
+      },
+      {
+        "ID": "e3",
+        "raisonSociale": "Logigroup",
+        "adresseEmail": [
+          "Logigroup@logigroup.com",
+          "bTT@g.com"
+        ],
+        "tel": "+212 661404656",
+        "adresse": "Casablanca,MA"
+      },
+      {
+        "ID": "e4",
+        "raisonSociale": "ICOZ",
+        "adresseEmail": "iicoz@iicoz.com",
+        "tel": "+212 661404677",
+        "adresse": "Casablanca,MA"
+      },
+      {
+        "ID": "e5",
+        "raisonSociale": "THALES INFORMATIQUE\n",
+        "adresseEmail": "THALES@thales.com",
+        "tel": "+212 661444677",
+        "adresse": "Casablanca,MA"
+      },
+      {
+        "ID": "e6",
+        "raisonSociale": "Smart Strategies",
+        "adresseEmail": "SMART@smart.com",
+        "tel": "+212 661404697",
+        "adresse": "Casablanca,MA"
+      },
+      {
+        "raisonSociale": "test",
+        "adresseEmail": "test@gm.com",
+        "tel": "0620555",
+        "adresse": "teest"
+      },
+      {
+        "raisonSociale": "test",
+        "adresseEmail": "test@gm.com",
+        "tel": "0620555",
+        "adresse": "teest"
+      },
+      {
+        "raisonSociale": "test",
+        "adresseEmail": "test@gm.com",
+        "tel": "0620555",
+        "adresse": "teest"
+      }
+    ]
+  }
+}

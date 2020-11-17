@@ -1,0 +1,77 @@
+﻿{
+  "utilisateurs": {
+    "utilisateur": [
+      {
+        "ID": "1",
+        "type": "lauréat/étudiant",
+        "nom": "ELAAMIRI",
+        "prenom": "Merieme",
+        "adresseEmail": "s@g.com",
+        "photo": "chemin",
+        "titre": "fullstack developper-PHP",
+        "login": "etudiant",
+        "motDePasse": "kkk",
+        "tel": "0650203070",
+        "adresse": "Ennakhil,Marrakech",
+        "profession": {
+          "ID": "1",
+          "titre": "fullstack develloper ",
+          "dateDebut": "12-03-2020",
+          "dateFin": "12-05-2020"
+        },
+        "stage": [
+          {
+            "ID": "1",
+            "titre": "stage1",
+            "sujet": "conception et réalisation d'un site web",
+            "dateDebut": "12-03-2020",
+            "dateFin": "12-05-2020",
+            "description": "description 2"
+          },
+          {
+            "ID": "2",
+            "titre": "stage2",
+            "sujet": "conception et réalisation d'un site web",
+            "dateDebut": "12-03-2020",
+            "dateFin": "12-05-2020",
+            "description": "description 2"
+          }
+        ]
+      },
+      {
+        "ID": "2",
+        "type": "lauréat/étudiant",
+        "nom": "nom2",
+        "prenom": "prenom2",
+        "adresseEmail": "s@g.com",
+        "photo": "chemin",
+        "titre": "etudiant",
+        "login": "etudiant",
+        "motDePasse": "kkk",
+        "tel": "0650203070",
+        "adresse": "Ennakhil,Marrakech",
+        "profession": {
+          "titre": "fullstack develloper ",
+          "dateDebut": "12-03-2020",
+          "dateFin": "12-05-2020"
+        },
+        "stage": [
+          {
+            "titre": "stage 1",
+            "sujet": "conception et réalisation d'un site web",
+            "dateDebut": "12-03-2020",
+            "dateFin": "12-05-2020",
+            "description": "description1"
+          },
+          {
+            "titre": "stage2",
+            "sujet": "conception et réalisation d'un site web",
+            "dateDebut": "12-03-2020",
+            "dateFin": "12-05-2020",
+            "description": "description 2"
+          }
+        ]
+      }
+    ]
+  }
+}
